@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Hoang/Documents/NetBeansProjects/JavaApplication4/src/util/SimpleFilter.java</file>
+            <file>file:/C:/Users/Hoang/Documents/NetBeansProjects/JavaApplication4/src/ui/ProductForm.java</file>
+            <file>file:/C:/Users/Hoang/Documents/NetBeansProjects/JavaApplication4/src/util/Session.java</file>
+            <file>file:/C:/Users/Hoang/Documents/NetBeansProjects/JavaApplication4/src/main/Main.java</file>
+            <file>file:/C:/Users/Hoang/Documents/NetBeansProjects/JavaApplication4/src/dao/InvoiceDetailDAO.java</file>
+            <file>file:/C:/Users/Hoang/Documents/NetBeansProjects/JavaApplication4/src/util/HashUtil.java</file>
+            <file>file:/C:/Users/Hoang/Documents/NetBeansProjects/JavaApplication4/test/ui/ProductFormTest.java</file>
+            <file>file:/C:/Users/Hoang/Documents/NetBeansProjects/JavaApplication4/src/ui/PrintInvoiceForm.java</file>
+            <file>file:/C:/Users/Hoang/Documents/NetBeansProjects/JavaApplication4/src/ui/EmployeeForm.java</file>
+            <file>file:/C:/Users/Hoang/Documents/NetBeansProjects/JavaApplication4/src/model/Customer.java</file>
+            <file>file:/C:/Users/Hoang/Documents/NetBeansProjects/JavaApplication4/src/dao/EmployeeDAO.java</file>
+            <file>file:/C:/Users/Hoang/Documents/NetBeansProjects/JavaApplication4/src/ui/LoginForm.java</file>
+            <file>file:/C:/Users/Hoang/Documents/NetBeansProjects/JavaApplication4/src/ui/InvoiceForm.java</file>
+            <file>file:/C:/Users/Hoang/Documents/NetBeansProjects/JavaApplication4/src/model/InvoiceDetail.java</file>
+            <file>file:/C:/Users/Hoang/Documents/NetBeansProjects/JavaApplication4/src/ui/NewClass.java</file>
+            <file>file:/C:/Users/Hoang/Documents/NetBeansProjects/JavaApplication4/src/dao/CustomerDAO.java</file>
+            <file>file:/C:/Users/Hoang/Documents/NetBeansProjects/JavaApplication4/src/dao/InvoiceDAO.java</file>
+            <file>file:/C:/Users/Hoang/Documents/NetBeansProjects/JavaApplication4/src/model/Product.java</file>
+            <file>file:/C:/Users/Hoang/Documents/NetBeansProjects/JavaApplication4/src/model/Invoice.java</file>
+            <file>file:/C:/Users/Hoang/Documents/NetBeansProjects/JavaApplication4/src/dao/DBConnect.java</file>
+            <file>file:/C:/Users/Hoang/Documents/NetBeansProjects/JavaApplication4/src/model/Employee.java</file>
+            <file>file:/C:/Users/Hoang/Documents/NetBeansProjects/JavaApplication4/src/ui/CustomerForm.java</file>
+            <file>file:/C:/Users/Hoang/Documents/NetBeansProjects/JavaApplication4/src/dao/ProductDAO.java</file>
+            <file>file:/C:/Users/Hoang/Documents/NetBeansProjects/JavaApplication4/src/ui/MainForm.java</file>
+        </group>
+    </open-files>
+</project-private>
